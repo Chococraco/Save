@@ -1,0 +1,52 @@
+name Camp de Etienne
+survivor 0
+task 0
+wood 18
+stone 10
+metal 21
+day 8
+musiclobby False
+musicgame True
+northdefense 10
+southdefense 0
+eastdefense 0
+westdefense 0
+northwall 1
+southwall 0
+eastwall 0
+westhwall 0
+survname1 
+survlvl 0
+survhp1 0
+survhpmax1 0
+survxp1 0
+survxpmax1 0
+survtask1 0
+survname2 
+survlvl 0
+survhp2 0
+survhpmax2 0
+survxp2 0
+survxpmax2 0
+survtask2 0
+survname3 
+survlvl 0
+survhp3 0
+survhpmax3 0
+survxp3 0
+survxpmax3 0
+survtask3 0
+survname4 
+survlvl 0
+survhp4 0
+survhpmax4 0
+survxp4 0
+survxpmax4 0
+survtask4 0
+survname5 
+survlvl 0
+survhp5 0
+survhpmax5 0
+survxp5 0
+survxpmax5 0
+survtask5 0
